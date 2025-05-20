@@ -86,10 +86,4 @@ QuickChat-Full-Stack/
 
 ![Login Page](./client/src/assets/logo_big.svg)
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-**Made with ❤️ for learning and chatting!**
